@@ -30,7 +30,7 @@ pierwiastek = math.sqrt(num)
 print(pierwiastek)
 
 # 6
-liczba = input("podaj liczbe: ")
+liczba = input("podaj liczbe nie wieksza od 20: ")
 liczba_int = int(liczba)
 from datetime import datetime
 czas = datetime.now()
