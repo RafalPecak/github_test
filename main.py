@@ -1,0 +1,3 @@
+commit = "tak"
+
+print(commit)
